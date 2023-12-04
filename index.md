@@ -15,7 +15,7 @@ My GitHub page is http://github.com/Andresrod1776.
 
 * Lab 6, part 1
 
-
+#portfolio
 I really enjoyed part 1 of lab 6 working with my partner. We learned about indexes, and we were able to make a sandwich using ingredients. After completing the lab, I craved a ham sandwich and made one at home.
 
 
